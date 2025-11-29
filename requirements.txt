@@ -1,0 +1,11 @@
+streamlit
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+python-dotenv
+chromadb
+langchain-classic
+playwright
+beautifulsoup4
+cloudscraper
